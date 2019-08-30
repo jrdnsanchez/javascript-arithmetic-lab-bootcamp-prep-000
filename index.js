@@ -1,2 +1,3 @@
-Function add(1, 80);
-
+Function add(a, b) {
+  return a + b;
+}
